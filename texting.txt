@@ -1,0 +1,33 @@
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbibuuu', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('four...', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('(music)', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('society?', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('fantasies', [u'daydreams', u'imaginings', u'perversions', u'fancies', u'lustful', u'escapades', u'lurid', u'longings', u'titillating', u'fictions'])
+('place', [u'cannot', u'etc.', u'half-way', u'lets', u'n\u2019t', u'in-between', u'palce', u'dont', u'\u2019s', u'wont'])
+('dreams', [u'daydreams', u'imaginings', u'longings', u'dreamers', u'fancies', u'yearnings', u'reverie', u'longed', u'dreamland', u'boyhood'])
+('pill', [u'phentermine', u'levitra', u'cialis', u'rx', u'perscription', u'tramadol', u'ultram', u'zoloft', u'prozac', u'fda'])
+('thrill', [u'exhilaration', u'adrenalin', u'excitment', u'electrifying', u'spine-tingling', u'mind-blowing', u'action-packed', u'heart-stopping', u'roller-coaster', u'heart-pounding'])
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbibuuu', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('four...', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('(music)', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('society?', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('fantasies', [u'daydreams', u'imaginings', u'perversions', u'fancies', u'lustful', u'escapades', u'lurid', u'longings', u'titillating', u'fictions'])
+('place', [u'cannot', u'etc.', u'half-way', u'lets', u'n\u2019t', u'in-between', u'palce', u'dont', u'\u2019s', u'wont'])
+('dreams', [u'daydreams', u'imaginings', u'longings', u'dreamers', u'fancies', u'yearnings', u'reverie', u'longed', u'dreamland', u'boyhood'])
+('pill', [u'phentermine', u'levitra', u'cialis', u'rx', u'perscription', u'tramadol', u'ultram', u'zoloft', u'prozac', u'fda'])
+thrill
+<spacy.lexeme.Lexeme object at 0x0000000011089900>
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbibuuu', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('abachbida', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('four...', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('(music)', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+('society?', [u'attr', u'conj', u'dep', u'dobj', u'expl', u'hmod', u'intj', u'nn', u'obj', u'obl'])
+[['abachbida'], ['abachbibuuu'], ['abachbida'], ['two,', 'three,', 'four...'], ['(music)'], ['are', 'you', 'bored', 'with', 'society?'], ['you', 'wanna', 'live', 'out', 'your', 'fantasies'], ["i'll", 'take', 'you', 'to', 'a', 'place'], ['that', 'is', 'made', 'out', 'of', 'dreams'], ['just', 'pop', 'a', 'cap,', 'swallow', 'down', 'the', 'pill'], ['prepare', 'yourself', 'for', 'a', 'colored', 'thrill'], ['into', 'a', 'world', 'of', 'diamonds', 'and', 'laserbeams'], ['aaaaah'], ['come', 'with', 'us', 'to', 'abachbida'], ['aaaaah'], ['you', 'can', 'be,', 'shooting', 'star'], ['aaaaaaaaaah'], ['abachbida'], ['how', 'suppose', 'you', 'wanna', 'hit', 'oh', 'no'], ['well', 'come', 'and', 'get', 'it', 'while', "it's", 'high'], ['another', 'breath', 'and', "you'll", 'be', 'gone'], ['without', 'a', 'trace'], ['few', 'inches', "'till", 'the', 'big', 'estrade'], ['few', 'seconds', 'of', 'deformaty'], ['do', 'you', 'intent', 'to', 'lift', 'off'], ['to', 'outer', 'space?'], ['*solo*'], ['woohooo'], ['woohooooo'], ['hoooooaaaaa'], ['aaaaaaaaaaaaaa'], ['aaaaaaaah'], ['come', 'with', 'us', 'to', 'abachbida'], ['aaaaah'], ['you', 'can', 'be,', 'shooting', 'star'], ['aaaaaaaaaah'], ['abachbida'], ['piano', 'calm', 'part'], ['*cough*'], ['*cough*', '*cough*'], ['aaahh...'], ['aaahh...'], ['aaahh...'], ['aaaah...'], ['*suspense', 'building', 'up*'], ['*short', 'solo*'], ['*longer', 'part*'], ['abachbidaaaa'], ['abachbidaaaaaaa'], ['abachbidaaaa'], ['abachbidaaaaaaa'], ['*lighter*'], ['inhales'], ['smoking', 'part']]
+[['abachbida'], ['abachbibuuu'], ['abachbida'], ['two,', 'three,', 'four...'], ['(music)'], ['are', 'you', 'bored', 'with', 'society?'], ['you', 'wanna', 'live', 'out', 'your', 'fantasies'], ["i'll", 'take', 'you', 'to', 'a', 'place'], ['that', 'is', 'made', 'out', 'of', 'dreams'], ['just', 'pop', 'a', 'cap,', 'swallow', 'down', 'the', 'pill'], ['prepare', 'yourself', 'for', 'a', 'colored', 'thrill'], ['into', 'a', 'world', 'of', 'diamonds', 'and', 'laserbeams'], ['aaaaah'], ['come', 'with', 'us', 'to', 'abachbida'], ['aaaaah'], ['you', 'can', 'be,', 'shooting', 'star'], ['aaaaaaaaaah'], ['abachbida'], ['how', 'suppose', 'you', 'wanna', 'hit', 'oh', 'no'], ['well', 'come', 'and', 'get', 'it', 'while', "it's", 'high'], ['another', 'breath', 'and', "you'll", 'be', 'gone'], ['without', 'a', 'trace'], ['few', 'inches', "'till", 'the', 'big', 'estrade'], ['few', 'seconds', 'of', 'deformaty'], ['do', 'you', 'intent', 'to', 'lift', 'off'], ['to', 'outer', 'space?'], ['*solo*'], ['woohooo'], ['woohooooo'], ['hoooooaaaaa'], ['aaaaaaaaaaaaaa'], ['aaaaaaaah'], ['come', 'with', 'us', 'to', 'abachbida'], ['aaaaah'], ['you', 'can', 'be,', 'shooting', 'star'], ['aaaaaaaaaah'], ['abachbida'], ['piano', 'calm', 'part'], ['*cough*'], ['*cough*', '*cough*'], ['aaahh...'], ['aaahh...'], ['aaahh...'], ['aaaah...'], ['*suspense', 'building', 'up*'], ['*short', 'solo*'], ['*longer', 'part*'], ['abachbidaaaa'], ['abachbidaaaaaaa'], ['abachbidaaaa'], ['abachbidaaaaaaa'], ['*lighter*'], ['inhales'], ['smoking', 'part']]
+<type 'list'>
+<type 'list'>
