@@ -50,7 +50,7 @@ void setup() {
     
     for (int x = 5; x < 15; x++){
   
-  XML xml = loadXML("https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=d7398cefa2c70405b4ac0f77b2fdbb3a&tags="+list[x]+"&per_page=1&sort=relevance&format=rest"); 
+  XML xml = loadXML("https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=GET_YOUR_OWN_API_BRUH&tags="+list[x]+"&per_page=1&sort=relevance&format=rest"); 
   //println(xml);
   XML artists_node = xml.getChildren("photos")[0];
   XML[] artists = artists_node.getChildren("photo");
